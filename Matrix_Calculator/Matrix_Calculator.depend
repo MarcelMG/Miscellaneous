@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1555583775 source:/home/marcel/Code/C_plus_plus/Uebungen/Matrix_Calculator/main.cpp
+	<iostream>
+	"matrix.h"
+
+1555585625 source:/home/marcel/Code/C_plus_plus/Uebungen/Matrix_Calculator/matrix.cpp
+	"matrix.h"
+
+1555585430 /home/marcel/Code/C_plus_plus/Uebungen/Matrix_Calculator/matrix.h
+	<vector>
+	<iostream>
+	<string>
+	<sstream>
+
